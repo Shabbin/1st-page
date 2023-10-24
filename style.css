@@ -1,0 +1,303 @@
+body {
+
+    font-family: 'Inter Tight', sans-serif;
+
+}
+
+.container {
+
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 30%;
+    text-align: center;
+    font-weight: 800;
+
+
+}
+
+#r {
+    height: 100%;
+    width: 100%;
+
+
+}
+
+#w {
+    font-family: 'Inter Tight', sans-serif;
+
+    font-size: smaller;
+    font-weight: lighter;
+
+    color: rgb(212, 206, 206);
+
+}
+
+.anchoring {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(red, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: lighter;
+}
+
+#D {
+
+    font-weight: 900;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+
+#R {
+
+    text-align: center;
+    color: rgb(177, 175, 175);
+
+}
+
+.Dig {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.flexy {
+    display: flex;
+    gap: 20%;
+    margin-left: 10%;
+    padding: 5%;
+    font-weight: bolder;
+}
+
+.chose {
+    border: 3px solid;
+    border-width: 3px;
+    background-image: linear-gradient(red);
+    border-radius: 20px;
+    padding: 20px;
+    border-color: red;
+    color: red;
+}
+
+.field {
+
+    text-align: center;
+    color: rgb(145, 142, 142);
+    font-weight: light;
+    opacity: 50%;
+
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    border-width: 0px 0px 2px 0px;
+}
+
+input[type=text]:focus {
+    outline: none;
+    border-image: linear-gradient(to right, #b4b3b4 0%, #a3a2a2 100%) 1;
+    border-width: 0px 0px 2px 0px;
+}
+
+.change {
+
+    text-align: center;
+    opacity: 70%;
+    font-size: large;
+}
+
+.anchor2 {
+
+    text-align: center;
+
+}
+
+.edits {
+
+    text-decoration: none;
+
+    background-image: linear-gradient(red, red);
+    border-radius: 5px;
+    padding: 10px 40px;
+
+    color: white;
+
+}
+
+.malayun {
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+#para {
+
+    color: #a3a2a2;
+    font-size: small;
+}
+
+.memo {
+    display: flex;
+    margin: 10%;
+    gap: 20%;
+}
+
+.box {
+    background-color: rgb(240, 235, 193);
+    padding: 20px 60px;
+    border-radius: 5px;
+    opacity: 80%;
+}
+
+.fx {
+    display: flex;
+    text-align: center;
+
+    margin-right: 60%;
+
+
+}
+
+.stick {
+
+    padding: 10px 40px;
+    height: 100%;
+    width: 100%;
+
+
+
+
+}
+
+.xf {
+    margin-right: 15%;
+
+}
+
+.rx {
+    text-decoration: none;
+    background-image: linear-gradient(red, red);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+
+}
+
+.busk {
+    padding: 20px 50px;
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.me {
+    gap: 10%;
+
+}
+
+.lod {
+
+    margin-left: 60%;
+
+}
+
+.D {
+
+    text-align: left;
+    margin-left: 15%;
+
+}
+
+.sison {
+
+    font-weight: bolder;
+}
+
+.slex {
+    display: flex;
+    padding: 30px 40px;
+
+}
+
+.lex {
+    gap: 30%;
+    margin-left: 32%;
+}
+
+.slik {
+
+
+    width: 200%;
+}
+
+.rubix {
+
+    text-align: center;
+}
+
+#his {
+
+    color: #a3a2a2;
+    font-size: small;
+
+}
+
+input[type=email] {
+    background-color: #c0bcbc;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+
+    padding: 10px 40px;
+
+}
+
+.boton {
+    color: aliceblue;
+    width: 10%;
+    padding: 10px;
+    background-color: red;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+
+.marty {
+    text-align: center;
+
+}
+
+.box1 {
+    background-color: rgb(240, 235, 193);
+    padding: 20px 30px;
+    border-radius: 8px;
+    opacity: 80%;
+
+
+}
+
+
+footer {
+    background-color: rgb(255, 186, 186);
+    text-align: center;
+
+}
+
+.logo {
+    text-align: center;
+    width: 180px;
+    height: auto;
+    text-align: center;
+    padding: 15px;
+    border: 3px solid rgb(255, 255, 255);
+}
